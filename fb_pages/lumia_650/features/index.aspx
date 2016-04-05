@@ -136,7 +136,7 @@ table#t01 th	{
 <td width="30%">Protection</td>
 <td width="70%">Corning Gorilla Glass 3</td>
 </tr>
-<tr><td >&nbsp;</td><td class="nfo">- ClearBlack display</td></tr>
+<tr><td ></td><td class="nfo">- ClearBlack display</td></tr>
 		
 
 <tr>
@@ -170,8 +170,7 @@ table#t01 th	{
 	
 
 			
-</td>
-</tr>
+
 
 <tr>
 
@@ -181,7 +180,7 @@ table#t01 th	{
 </tr>
 <tr>
 <td width="30%"> Features</td>
-<td 1/4" sensor size</td>
+<td> 1/4" sensor size</td>
 </tr>
 <tr>
 <td width="30%"> Video Recording</td>
@@ -264,7 +263,7 @@ table#t01 th	{
 
 <tr>
 
-<td class="ttl">&nbsp;</td>
+<td ></td>
 <td width="70%">Removable Li-Ion 2000 mAh battery</td>
 </tr><tr>
 <td width="30%"> Stand-by</td>
@@ -291,7 +290,7 @@ table#t01 th	{
 
 <td width="30%"> Display</td>
 <td width="70%">
-Contrast ratio: Infinite (nominal), 3.77(sunlight)</a></td>
+Contrast ratio: Infinite (nominal), 3.77(sunlight)</td>
 </tr><tr>
 
 <td width="30%"> Camera</td>
@@ -305,7 +304,7 @@ Photo</td>
 <td width="30%"> Battery life</td>
 <td width="70%">
 <div style="position:relative;">
-Endurance rating 55h</a><div class="popover top" id="battery-popover" style="display: none;"></div>
+Endurance rating 55h<div class="popover top" id="battery-popover" style="display: none;"></div>
 </div>
 </td>
 </tr><tr>
